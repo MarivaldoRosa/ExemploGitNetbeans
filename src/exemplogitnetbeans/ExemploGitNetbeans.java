@@ -50,7 +50,7 @@ public class ExemploGitNetbeans {
     }
 
     private static Produtos imprimir() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        //Falta implementar o metodo imprimir para a finalização do projeto.    
     }
     
     
